@@ -1,1 +1,2 @@
 asfdsinit 111.txt
+add by liqinghai2 test3 directoty.
